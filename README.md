@@ -17,5 +17,4 @@ Continúo estudiando y perfeccionándome porque pienso que, hoy mas que nunca, c
 Así que acá estamos, aprendiendo y tratando de seguir mejorando. Igualmente cada tanto le digo a la IA que por favor, no me quite el laburo. jaja
 
 ### Otra Información
-- Este es mi primer contacto con github
-- Tengo un gato que se llama Timoteol
+
